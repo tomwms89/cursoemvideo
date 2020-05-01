@@ -1,2 +1,2 @@
 # cursoemvideo
-Todos os projetos dos cursos realizados nesta plataforma
+Todos os exercícios dos cursos realizados nesta plataforma
